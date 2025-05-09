@@ -39,7 +39,7 @@ I'm also completing a cybersecurity master's degree focused on building realisti
 
 ## 📫 Contact & Links
 - 📧 Email: andreaalonso0007@gmail.com 
-- 💼 LinkedIn:(https://www.linkedin.com/in/andrea-de-la-monta%C3%B1a-alonso-112424335/) 
+- 💼 LinkedIn: https://www.linkedin.com/in/andrea-de-la-monta%C3%B1a-alonso-112424335/
 - 🌐 GitHub: [github.com/Andreaalonso0007](https://github.com/Andreaalonso0007)
 
 ---
